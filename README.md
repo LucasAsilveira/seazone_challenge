@@ -67,4 +67,36 @@ It will be developed according to the request:
 
 More business hypotheses and the survey and solution of all hypotheses can be found at this [bussiness_hypoteses.pdf](https://github.com/LucasAsilveira/seazone_challenge/blob/main/bussiness_hypoteses.pdf) 
 
-## 5. Respondendo Questões de Negócio:
+## 4. Business Questions:
+### Below is just a summary with the questions and answers, the entire development of the answers and graphics used are in Item 8 of the report that can be found in this [report_seazone_challenge.pdf](https://github.com/LucasAsilveira/seazone_challenge/blob/main/report_seazone_challenge.pdf)
+
+
+Q.1. What is the expected price and revenue for a listing tagged as JUR MASTER 2Q in march?
+
+RESPOSTA: R$ 645,00
+
+Q.2. What is Seazone’s expected revenue for 2022? Why?
+
+RESPOSTA: R$ 30 milhões
+
+Q.3. How many reservations should we expect to sell per day? Why?¶
+
+RESPOSTA: An average of 183 reservations per day is expected
+
+Q.4. At what time of the year should we expect to have sold 10% of our new year'snights? And
+50%? And 80%?
+
+RESPOSTA: of the year should we expect to have sold 10% : 70 days in advance,
+50% : 20 days in advance and 80% : 8 days in advance
+
+
+Q.5. On the impact of the COVID-19 pandemic:
+
+RESPOSTA: Analyzing the plotted data, we can estimate strong losses in billing due to the
+pandemic.
+
+- Has the industry recovered?
+
+RESPOSTA: It is in the process of full recovery and should be normalized by the next high
+season.
+
