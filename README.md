@@ -54,5 +54,15 @@ It will be developed according to the request:
 - Data exploration: Perform graphical analysis of the variables, validate the hypotheses raised.
 - Dashboard production: Plot graphs with the main features to answer questions
 
+## 3. Key Insights from Data
+
+1. Weekends can have up to 20% more occupancy.(FALSO)
+- Generated Insight: Despite the higher occupancy during weekends, they do not have such a high rate. Being able to carry out campaigns and promotions based on this
+
+2. Annual revenue grows by 20% per year or more.(TRUE)
+- Generated Insight: Revenue growth was 175% from 2020 to 2021,and in the year 2022, in the first three months, it has already surpassed the total for 2021. Therefore, the company can work with expectations of increasing revenues.
+
+3. Hotel type properties have a higher occupancy rate than other types.(TRUE)
+- Generated Insight: Hotels have a higher occupancy rate, which may lead the company to think about increasing the disclosure of other types of properties since they have many advertisements of other types
 
 
