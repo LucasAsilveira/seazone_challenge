@@ -65,4 +65,6 @@ It will be developed according to the request:
 3. Hotel type properties have a higher occupancy rate than other types.(TRUE)
 - Generated Insight: Hotels have a higher occupancy rate, which may lead the company to think about increasing the disclosure of other types of properties since they have many advertisements of other types
 
+More business hypotheses and the survey and solution of all hypotheses can be found at this [bussiness_hypoteses.pdf](https://github.com/LucasAsilveira/seazone_challenge/blob/main/bussiness_hypoteses.pdf) 
 
+## 5. Respondendo Questões de Negócio:
