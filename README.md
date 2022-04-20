@@ -103,7 +103,7 @@ season.
 
 ## 5. Dashboard:
 
-The dashboard developed to answer business questions and carry out business hypotheses can be found through this [seazone_challange_dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjA0Y2FmMDQtY2M0NC00MTkzLWEzZDctMTZmYjliZWJhMDZlIiwidCI6Ijc1ZDUwYjU2LWY2YWUtNDUzZS1hZGU2LTc3OThmODM1ZTAwZiJ9)
+The dashboard developed to answer business questions and carry out business hypotheses can be found through this [seazone_challange_dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjA0Y2FmMDQtY2M0NC00MTkzLWEzZDctMTZmYjliZWJhMDZlIiwidCI6Ijc1ZDUwYjU2LWY2YWUtNDUzZS1hZGU2LTc3OThmODM1ZTAwZiJ9) or viewed in pdf form at this [seazone_challange_dashboard.pdf](https://github.com/LucasAsilveira/seazone_challenge/blob/main/power_bi_project/seazone_challange_dashboard.pdf)
 
 This dashboard has been divided into 4 tabs:
 
@@ -115,6 +115,16 @@ This dashboard has been divided into 4 tabs:
 
 - 'Ano Novo' : In this tab we have a table where we have the days in advance that each New Year's reservation took place and a cumulative chart where we can see the dates that were occupied in relation to the percentage of occupancy on New Year's night.
 
+## 6. Conclusion:
+
+ The final objective was achieved, using the available data to answer the questions and formulate a report. There were some difficulties encountered during the process, the data history is short, having only 2 full years and these suffering interference from the pandemic. The time factor was also an obstacle because the deadline for carrying out the project was narrow.
+ Based on the data, we can see that it is a sector with growing demand, even though the pandemic factor has disrupted the number of ads and revenue has grown in recent years, being a sector in growth and development.
+ 
+
+## 7. Next steps:
+
+- Possible improvements, after receiving feedback on the usability of the dashboard. 
+- Implementation of Machine Learning to estimate prices and occupancy rate 
 
 
 
