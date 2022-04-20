@@ -6,6 +6,7 @@
 
 Seazone is a real estate startup that uses technology to monetize properties through season rentals. 
 In this context, the company made available some data from its advertisements to develop a data analysis and exploration project, requesting a final report on the development of this project and with some questions to be answered.
+#### The report generated from the entire process can be accessed here [report](https://github.com/LucasAsilveira/seazone_challenge/blob/main/report_seazone_challenge.pdf)
 
 ## 1. Business Question
 
@@ -99,4 +100,26 @@ pandemic.
 
 RESPOSTA: It is in the process of full recovery and should be normalized by the next high
 season.
+
+## 5. Dashboard:
+
+The dashboard developed to answer business questions and carry out business hypotheses can be found through this [seazone_challange_dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjA0Y2FmMDQtY2M0NC00MTkzLWEzZDctMTZmYjliZWJhMDZlIiwidCI6Ijc1ZDUwYjU2LWY2YWUtNDUzZS1hZGU2LTc3OThmODM1ZTAwZiJ9)
+
+This dashboard has been divided into 4 tabs:
+
+- 'Faturamento': Where there are graphs of the average income of each type of property, total annual invoicing, invoicing by seasons of the year and monthly invoicing.
+
+- 'Reservas': There is a graph with listings that were occupied and remained vacant by percentage in the form of a pie, a stacked graph with this relationship over time and a bar graph where we have the total of Listings that were month by month busy and left vacant.
+
+- 'Localizaçao': In this tab we find the average revenue per location, the number of properties per location and a table where we have some detail of each Listing
+
+- 'Ano Novo' : In this tab we have a table where we have the days in advance that each New Year's reservation took place and a cumulative chart where we can see the dates that were occupied in relation to the percentage of occupancy on New Year's night.
+
+
+
+
+
+
+
+
 
